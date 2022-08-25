@@ -37,6 +37,11 @@ function Task() {
             handleSubmit(e);
           }}
         >
+          <h3 style={{ justifyContent: "center" }}>
+            **Wait for the deployed server to start I have already uploaded two
+            photos that will be shown in photo wall section once it connects to
+            the server**{" "}
+          </h3>
           <h1 style={{ justifyContent: "center" }}>Task Manager</h1>
           <div className="form-control">
             <input
